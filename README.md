@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvniKapoor
 - 👀 I’m interested in creativity
-- 🌱 I’m currently learning programming languages
+
   
 
 <!---
